@@ -1,0 +1,11 @@
+/Users/havishatiruvuri/Documents/leap/C#/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/havishatiruvuri/Documents/leap/C#/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/havishatiruvuri/Documents/leap/C#/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/havishatiruvuri/Documents/leap/C#/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/havishatiruvuri/Documents/leap/C#/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/havishatiruvuri/Documents/leap/C#/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/havishatiruvuri/Documents/leap/C#/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/havishatiruvuri/Documents/leap/C#/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/havishatiruvuri/Documents/leap/C#/test/obj/Debug/netcoreapp2.1/test.pdb

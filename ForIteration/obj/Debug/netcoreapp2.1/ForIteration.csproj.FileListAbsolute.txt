@@ -1,0 +1,11 @@
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/bin/Debug/netcoreapp2.1/ForIteration.deps.json
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/bin/Debug/netcoreapp2.1/ForIteration.runtimeconfig.json
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/bin/Debug/netcoreapp2.1/ForIteration.runtimeconfig.dev.json
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/bin/Debug/netcoreapp2.1/ForIteration.dll
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/bin/Debug/netcoreapp2.1/ForIteration.pdb
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/obj/Debug/netcoreapp2.1/ForIteration.csprojAssemblyReference.cache
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/obj/Debug/netcoreapp2.1/ForIteration.csproj.CoreCompileInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/obj/Debug/netcoreapp2.1/ForIteration.AssemblyInfoInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/obj/Debug/netcoreapp2.1/ForIteration.AssemblyInfo.cs
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/obj/Debug/netcoreapp2.1/ForIteration.dll
+/Users/havishatiruvuri/Documents/leap/C#/ForIteration/obj/Debug/netcoreapp2.1/ForIteration.pdb

@@ -1,0 +1,11 @@
+/Users/havishatiruvuri/Documents/c#/Variables/obj/Debug/netcoreapp2.1/Variables.csprojAssemblyReference.cache
+/Users/havishatiruvuri/Documents/c#/Variables/obj/Debug/netcoreapp2.1/Variables.csproj.CoreCompileInputs.cache
+/Users/havishatiruvuri/Documents/c#/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfoInputs.cache
+/Users/havishatiruvuri/Documents/c#/Variables/obj/Debug/netcoreapp2.1/Variables.AssemblyInfo.cs
+/Users/havishatiruvuri/Documents/c#/Variables/bin/Debug/netcoreapp2.1/Variables.deps.json
+/Users/havishatiruvuri/Documents/c#/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.json
+/Users/havishatiruvuri/Documents/c#/Variables/bin/Debug/netcoreapp2.1/Variables.runtimeconfig.dev.json
+/Users/havishatiruvuri/Documents/c#/Variables/bin/Debug/netcoreapp2.1/Variables.dll
+/Users/havishatiruvuri/Documents/c#/Variables/bin/Debug/netcoreapp2.1/Variables.pdb
+/Users/havishatiruvuri/Documents/c#/Variables/obj/Debug/netcoreapp2.1/Variables.dll
+/Users/havishatiruvuri/Documents/c#/Variables/obj/Debug/netcoreapp2.1/Variables.pdb

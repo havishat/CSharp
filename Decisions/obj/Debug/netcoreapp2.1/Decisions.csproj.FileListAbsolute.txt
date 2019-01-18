@@ -1,0 +1,11 @@
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/bin/Debug/netcoreapp2.1/Decisions.deps.json
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/bin/Debug/netcoreapp2.1/Decisions.runtimeconfig.json
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/bin/Debug/netcoreapp2.1/Decisions.runtimeconfig.dev.json
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/bin/Debug/netcoreapp2.1/Decisions.dll
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/bin/Debug/netcoreapp2.1/Decisions.pdb
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/obj/Debug/netcoreapp2.1/Decisions.csprojAssemblyReference.cache
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/obj/Debug/netcoreapp2.1/Decisions.csproj.CoreCompileInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/obj/Debug/netcoreapp2.1/Decisions.AssemblyInfoInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/obj/Debug/netcoreapp2.1/Decisions.AssemblyInfo.cs
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/obj/Debug/netcoreapp2.1/Decisions.dll
+/Users/havishatiruvuri/Documents/leap/C#/Decisions/obj/Debug/netcoreapp2.1/Decisions.pdb

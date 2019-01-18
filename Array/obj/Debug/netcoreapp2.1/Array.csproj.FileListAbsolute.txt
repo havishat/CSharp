@@ -1,0 +1,11 @@
+/Users/havishatiruvuri/Documents/leap/C#/Array/bin/Debug/netcoreapp2.1/Array.deps.json
+/Users/havishatiruvuri/Documents/leap/C#/Array/bin/Debug/netcoreapp2.1/Array.runtimeconfig.json
+/Users/havishatiruvuri/Documents/leap/C#/Array/bin/Debug/netcoreapp2.1/Array.runtimeconfig.dev.json
+/Users/havishatiruvuri/Documents/leap/C#/Array/bin/Debug/netcoreapp2.1/Array.dll
+/Users/havishatiruvuri/Documents/leap/C#/Array/bin/Debug/netcoreapp2.1/Array.pdb
+/Users/havishatiruvuri/Documents/leap/C#/Array/obj/Debug/netcoreapp2.1/Array.csprojAssemblyReference.cache
+/Users/havishatiruvuri/Documents/leap/C#/Array/obj/Debug/netcoreapp2.1/Array.csproj.CoreCompileInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/Array/obj/Debug/netcoreapp2.1/Array.AssemblyInfoInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/Array/obj/Debug/netcoreapp2.1/Array.AssemblyInfo.cs
+/Users/havishatiruvuri/Documents/leap/C#/Array/obj/Debug/netcoreapp2.1/Array.dll
+/Users/havishatiruvuri/Documents/leap/C#/Array/obj/Debug/netcoreapp2.1/Array.pdb
