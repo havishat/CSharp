@@ -1,0 +1,11 @@
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/bin/Debug/netcoreapp2.1/inheritanceg2g.deps.json
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/bin/Debug/netcoreapp2.1/inheritanceg2g.runtimeconfig.json
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/bin/Debug/netcoreapp2.1/inheritanceg2g.runtimeconfig.dev.json
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/bin/Debug/netcoreapp2.1/inheritanceg2g.dll
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/bin/Debug/netcoreapp2.1/inheritanceg2g.pdb
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/obj/Debug/netcoreapp2.1/inheritanceg2g.csprojAssemblyReference.cache
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/obj/Debug/netcoreapp2.1/inheritanceg2g.csproj.CoreCompileInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/obj/Debug/netcoreapp2.1/inheritanceg2g.AssemblyInfoInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/obj/Debug/netcoreapp2.1/inheritanceg2g.AssemblyInfo.cs
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/obj/Debug/netcoreapp2.1/inheritanceg2g.dll
+/Users/havishatiruvuri/Documents/leap/C#/inheritanceg2g/obj/Debug/netcoreapp2.1/inheritanceg2g.pdb
