@@ -1,0 +1,11 @@
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/obj/Debug/netcoreapp2.1/conditionalsWhileExceptions.csprojAssemblyReference.cache
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/obj/Debug/netcoreapp2.1/conditionalsWhileExceptions.csproj.CoreCompileInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/obj/Debug/netcoreapp2.1/conditionalsWhileExceptions.AssemblyInfoInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/obj/Debug/netcoreapp2.1/conditionalsWhileExceptions.AssemblyInfo.cs
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/bin/Debug/netcoreapp2.1/conditionalsWhileExceptions.deps.json
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/bin/Debug/netcoreapp2.1/conditionalsWhileExceptions.runtimeconfig.json
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/bin/Debug/netcoreapp2.1/conditionalsWhileExceptions.runtimeconfig.dev.json
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/bin/Debug/netcoreapp2.1/conditionalsWhileExceptions.dll
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/bin/Debug/netcoreapp2.1/conditionalsWhileExceptions.pdb
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/obj/Debug/netcoreapp2.1/conditionalsWhileExceptions.dll
+/Users/havishatiruvuri/Documents/leap/C#/conditionalsWhileExceptions/obj/Debug/netcoreapp2.1/conditionalsWhileExceptions.pdb

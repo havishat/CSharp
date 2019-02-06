@@ -1,0 +1,11 @@
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/obj/Debug/netcoreapp2.1/C#tutorial.csprojAssemblyReference.cache
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/obj/Debug/netcoreapp2.1/C#tutorial.csproj.CoreCompileInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/obj/Debug/netcoreapp2.1/C#tutorial.AssemblyInfoInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/obj/Debug/netcoreapp2.1/C#tutorial.AssemblyInfo.cs
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/bin/Debug/netcoreapp2.1/C#tutorial.deps.json
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/bin/Debug/netcoreapp2.1/C#tutorial.runtimeconfig.json
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/bin/Debug/netcoreapp2.1/C#tutorial.runtimeconfig.dev.json
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/bin/Debug/netcoreapp2.1/C#tutorial.dll
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/bin/Debug/netcoreapp2.1/C#tutorial.pdb
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/obj/Debug/netcoreapp2.1/C#tutorial.dll
+/Users/havishatiruvuri/Documents/leap/C#/C#tutorial/obj/Debug/netcoreapp2.1/C#tutorial.pdb

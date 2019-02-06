@@ -43,6 +43,21 @@ namespace Array
             foreach (char zigChar in charArray){
                 Console.Write(zigChar);
             }
+
+            int[] favNums = new int[3];
+
+            favNums[0] = 23;
+
+            Console.WriteLine("favNum 0 : {0}", favNum[0]);
+
+            string[] customers = { "Bob", "Sally", "Sue"};
+
+            var employees = new[] { "Mike", "Paul", "Rick"};
+
+            object[] randomArray = { "Paul", 45, 1.234};
+
+            Console.WriteLine("randomArray 0 : {0}")
+
             Console.ReadLine();
 
 
