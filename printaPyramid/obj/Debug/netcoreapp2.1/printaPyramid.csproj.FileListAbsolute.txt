@@ -1,0 +1,11 @@
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/bin/Debug/netcoreapp2.1/printaPyramid.deps.json
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/bin/Debug/netcoreapp2.1/printaPyramid.runtimeconfig.json
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/bin/Debug/netcoreapp2.1/printaPyramid.runtimeconfig.dev.json
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/bin/Debug/netcoreapp2.1/printaPyramid.dll
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/bin/Debug/netcoreapp2.1/printaPyramid.pdb
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/obj/Debug/netcoreapp2.1/printaPyramid.csprojAssemblyReference.cache
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/obj/Debug/netcoreapp2.1/printaPyramid.csproj.CoreCompileInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/obj/Debug/netcoreapp2.1/printaPyramid.AssemblyInfoInputs.cache
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/obj/Debug/netcoreapp2.1/printaPyramid.AssemblyInfo.cs
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/obj/Debug/netcoreapp2.1/printaPyramid.dll
+/Users/havishatiruvuri/Documents/leap/C#/printaPyramid/obj/Debug/netcoreapp2.1/printaPyramid.pdb

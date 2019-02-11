@@ -15,6 +15,11 @@ namespace conditionalsWhileExceptions
                     i++; i = i + 1;
                     
                 }
+
+                if( i == 9) break;
+
+                Console.WriteLine(i);
+                i++;
             }
 
             Console.ReadLine();
